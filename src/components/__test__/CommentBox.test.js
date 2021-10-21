@@ -2,7 +2,8 @@ import React from "react";
 import { mount, unmount } from "enzyme";
 import CommentBox from "../CommentBox";
 import Root from "../../Root";
-//test
+//test 1
+//test 2
 let wrapped;
 beforeEach(() => {
   wrapped = mount(
