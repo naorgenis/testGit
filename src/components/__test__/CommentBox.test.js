@@ -4,6 +4,7 @@ import CommentBox from "../CommentBox";
 import Root from "../../Root";
 //test 1
 //test 2
+//test 3
 let wrapped;
 beforeEach(() => {
   wrapped = mount(
